@@ -1,2 +1,12 @@
 # Ocean-numerical-simulation
-This store use to record my ocean numerical simulation work.
+---
+## 项目简介
+### 该项目用于记录我的硕士课程海洋数值模拟作业，其中包含一些流体现象的模拟实验以及计算稳定性实验，比如对一维热扩散、一维平流、一维平流+扩散等等过程的模拟，详细实验要求可在doc文件中查看
+---
+## 项目结构
+### 该项目包含4个文件夹，分别为doc、class、code、fig
+- doc中为课程作业要求或者实验信息
+- class中包含所有的python算法代码
+- code中记录了所有的实验结果
+- fig中保存了所有要求的可视化图像
+---
