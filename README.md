@@ -12,7 +12,7 @@
 ---
 
 ## 如何使用该项目代码呢？
-### 你只只需要运行code中的代码即可，在此之前，你必须把class文件夹添加为环境变量（源目录）以确保code中代码能够正常调用class中的算法，此外必须安装numpy、matplotlib、imageio库
+### 你只需要运行code中的代码即可，在此之前，你必须把class文件夹添加为环境变量（源目录）以确保code中代码能够正常调用class中的算法，此外必须安装numpy、matplotlib、imageio库
 
 ---
 ## 实验结果
